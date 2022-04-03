@@ -1,5 +1,6 @@
 {
   "name": "boris-lipovetzky-20-3-2022",
+  "homepage": "https://github.com/borislipo/weather-app-deploy",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
